@@ -62,7 +62,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : tovitu
+  steam            : "tovitu"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -79,7 +79,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Manuscripts'
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
