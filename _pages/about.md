@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am an undergraduate student in Data Science at Washington University in St. Louis. I work on applied Machine Learning and Natural Language Processing. I am afflicated with the WashU NLP Group in the CSE department and the Hengen Lab in the Biology department. 
+Hello, I am an undergraduate student in Data Science at Washington University in St. Louis. I work on applied Machine Learning and Natural Language Processing. I am afflicated with the [WashU NLP Group](https://nlp.wustl.edu/) in the CSE department and the [Hengen Lab](https://hengenlab.org/) in the Biology department. 
 
 My research interest broadly lies in the interdisciplinary field of CV and NLP, especially in the vision-language models. I woant to build multimodal systems that enjoys the nice generalization and interpretibility property of natural language and are capable of processing diverse channels of inputs. I am also interested in solving unique questions in specific domains, adapting popular models to take advantage of new assumptions. 
 
@@ -35,4 +35,4 @@ James McGregor, Clayton Farris, Aidan Schneider, Chao Wang, Yuqi Liu, **Jianhong
 **Jianhong Tu**, Erdong Chen, Shuhan Zhang, Ben Meuller. *Work in progress*
 
 * Pertained Convolutional Network with Attention for Sleep Staging in Mouse Model \
-** Jianhong Tu**, Haipeng Zhao, Wenjin Lin, Zining Yang. *Work in progress*, 2024
+**Jianhong Tu**, Haipeng Zhao, Wenjin Lin, Zining Yang. *Work in progress*, 2024

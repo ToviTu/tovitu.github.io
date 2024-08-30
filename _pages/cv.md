@@ -16,16 +16,17 @@ Education
 Research Experience
 ======
 * Nov. 2023 – Present: **Undergraduate Researcher at WashU NLP Group** 
-  * Advisor: Chenguang Wang (Assistant Professor)
+  * Advisor: <a href="https://cgraywang.github.io/" style="text-decoration:none;">Chenguang Wang</a> (Assistant Professor)
 
 * Feb. 2024 – July. 2024: **Independent Project at Washu Computer Vision Course**
-  * Advisor: Nathan Jacobs (Professor) 
+  * Advisor: <a href="https://jacobsn.github.io/" style="text-decoration:none;">Nathan Jacobs</a> (Professor) 
 
 * May 2023 – Sept. 2023: Summer 2015: **BioSURF Program**
-  * Advisor: James McGregor (Post-doctoral Researcher) 
+  * Advisor: <a href="https://hengenlab.org/james-mcgregor" style="text-decoration:none;">James McGregor</a> (Post-doctoral Researcher) 
 
 * May 2022 – Present: Summer 2015: **Hengen Lab**
-  * Advisor: Keith Hengen (Assistant Professor) & Aidan Schneider (Senior Doctoral Researcher) 
+  * Advisor: <a href="https://hengenlab.org/kbh-2" style="text-decoration:none;">Keith Hengen</a> (Assistant Professor) \
+  & <a href="https://hengenlab.org/aidan" style="text-decoration:none;">Aidan Schneider</a> (Senior Doctoral Researcher) 
 
 Teaching Experience
 ======
