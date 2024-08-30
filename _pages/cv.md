@@ -25,8 +25,7 @@ Research Experience
   * Advisor: <a href="https://hengenlab.org/james-mcgregor" style="text-decoration:none;">James McGregor</a> (Post-doctoral Researcher) 
 
 * May 2022 – Present: Summer 2015: **Hengen Lab**
-  * Advisor: <a href="https://hengenlab.org/kbh-2" style="text-decoration:none;">Keith Hengen</a> (Assistant Professor) \
-  & <a href="https://hengenlab.org/aidan" style="text-decoration:none;">Aidan Schneider</a> (Senior Doctoral Researcher) 
+  * Advisor: <a href="https://hengenlab.org/kbh-2" style="text-decoration:none;">Keith Hengen</a> (Assistant Professor) & <a href="https://hengenlab.org/aidan" style="text-decoration:none;">Aidan Schneider</a> (Senior Doctoral Researcher) 
 
 Teaching Experience
 ======
