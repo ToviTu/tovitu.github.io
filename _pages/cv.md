@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Data Science, Washington University in St. Louis (**GPA** 4.0/4.0) <br> Expected Graduation Time: May 2025
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2023 – Present: **Undergraduate Researcher at WashU NLP Group** 
+  * Advisor: Chenguang Wang (Assistant Professor)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2024 – July. 2024: **Independent Project at Washu Computer Vision Course**
+  * Advisor: Nathan Jacobs (Professor) 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2023 – Sept. 2023: Summer 2015: **BioSURF Program**
+  * Advisor: James McGregor (Post-doctoral Researcher) 
 
-Publications
+* May 2022 – Present: Summer 2015: **Hengen Lab**
+  * Advisor: Keith Hengen (Assistant Professor) & Aidan Schneider (Senior Doctoral Researcher) 
+
+Teaching Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* June 2024 – Present: Undergraduate Lab Mentor, Research Experience for Undergraduates Program
+* Jan. 2024 – May 2024: Teaching Assistant, CSE527 Natural Language Processing
+* Jan. 2024 – May 2024: Teaching Assistant, CSE561 Large Language Models
+* Sept. 2021 – May 2022: Teaching Assistant, CSE131 Introduction to Computer Science
+
+Work Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* June 2023 – Present: **Co-Founder of an AI Education Start-Up** 
+* Apr. 2022 – Sept. 2022: **Software Developer at an Independent Game Studio** 
+
