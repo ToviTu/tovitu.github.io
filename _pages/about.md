@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am an undergraduate student in Data Science at Washington University in St. Louis. I work on applied Machine Learning and Natural Language Processing. I am afflicated with the [WashU NLP Group](https://nlp.wustl.edu/) in the CSE department and the [Hengen Lab](https://hengenlab.org/) in the Biology department. 
+Hello, I am an undergraduate student in Data Science at Washington University in St. Louis, with a focus on applied Machine Learning and Natural Language Processing. I am affliated with the [WashU NLP Group](https://nlp.wustl.edu/) in the CSE department and the [Hengen Lab](https://hengenlab.org/) in the Biology department. 
 
-My research interest broadly lies in the interdisciplinary field of CV and NLP, especially in the vision-language models. I woant to build multimodal systems that enjoys the nice generalization and interpretibility property of natural language and are capable of processing diverse channels of inputs. I am also interested in solving unique questions in specific domains, adapting popular models to take advantage of new assumptions. 
+My research interests broadly lie at the intersection of CV and NLP, especially in the development of vision-language models. I am passionate about building multimodal systems that leverage the strong generalization and interpretability properties of natural language while being capable of processing diverse types of inputs. Additionally, I am interested in solving unique questions in specific domains, adapting popular models to exploit new assumptions. 
 
 Email: <jianhong.t@wustl.edu> / <tovitusaikou@gmail.com> / <tovitusaikou@163.com>
 
@@ -19,7 +19,6 @@ Links: [[CV](/files/cv.pdf)]
 ----------------------
 * <a href="https://pubmed.ncbi.nlm.nih.gov/37732214/" style="text-decoration:none;">Failure in a population: tauopathy disrupts homeostatic set-points in emergent dynamics despite stability in the constituent neurons.</a> \
 James McGregor, Clayton Farris, Aidan Schneider, Chao Wang, Yuqi Liu, **Jianhong Tu**, Halla Elmore, Keenan Ronayne, Ralf Wessel, Eval Dyer, Kiran Bhaskaran-Nair, David Holtzmann, Keith Hengen. To appear on *Neuron*, 2024.
-
 
 **Presentations**
 ----------------------
